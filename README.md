@@ -5,7 +5,7 @@
 <img src="SkillCraft_Task_02.png" alt="Banner" style="width:100%; max-width:700px;">
 
 Hi there!  
-I'm ** VASUDEVAN **, and this repository showcases my submission for **Task 2** of the **Prodigy Infotech Data Science Internship**. In this task, I performed **Data Cleaning**, **Exploratory Data Analysis (EDA)**, and **Machine Learning Modeling** on the famous Titanic dataset to uncover trends and build a predictive model.
+I'm ** VASUDEVAN **, and this repository showcases my submission for **Task 2** of the **SkillCraft Technology Data Science Internship**. In this task, I performed **Data Cleaning**, **Exploratory Data Analysis (EDA)**, and **Machine Learning Modeling** on the famous Titanic dataset to uncover trends and build a predictive model.
 
 ---
 
