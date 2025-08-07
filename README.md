@@ -1,8 +1,8 @@
 # SKILLCRAFT_DS_02
 
-#  Skillcraft Technology – Data Science Internship (Task 2)
+#  SkillCraft Technology – Data Science Internship (Task 2)
 
-<img src="Skillcraft_task_02.png" alt="Banner" style="width:100%; max-width:700px;">
+<img src="SkillCraft_task_02.png" alt="Banner" style="width:100%; max-width:700px;">
 
 Hi there!  
 I'm ** VASUDEVAN **, and this repository showcases my submission for **Task 2** of the **Prodigy Infotech Data Science Internship**. In this task, I performed **Data Cleaning**, **Exploratory Data Analysis (EDA)**, and **Machine Learning Modeling** on the famous Titanic dataset to uncover trends and build a predictive model.
